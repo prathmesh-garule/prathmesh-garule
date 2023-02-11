@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh-garule&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh-garule" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/prathmesh](https://twitter.com/Prathme32359487)" target="blank"><img src="https://img.shields.io/twitter/follow/prathmesh?logo=twitter&style=for-the-badge" alt="prathmesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Prathme32359487" target="blank"><img src="https://img.shields.io/twitter/follow/prathmesh?logo=twitter&style=for-the-badge" alt="prathmesh" /></a> </p>
 
 - 🔭 I’m currently working on **Android App**
 
