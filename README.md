@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android App**
 
-- 🌱 I’m currently learning **MERN,FLUTTER**
+- 🌱 I’m currently learning **MERN**
 
 - I'm Prefinal-year student at **COEP tech**
 
