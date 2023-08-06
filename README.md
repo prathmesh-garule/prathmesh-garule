@@ -34,4 +34,4 @@
 
 
 ![giphy](https://user-images.githubusercontent.com/78311862/194483282-78204afc-2ca2-4cac-9f9a-5a21e7729c0c.gif)
-[![@prathmeshgarule's Holopin board](https://holopin.me/prathmeshgarule)](https://holopin.io/@prathmeshgarule)
+[![@prathmeshgarule's Holopin board](https://holopin.me/prathmeshgarule#badges)](https://holopin.io/@prathmeshgarule)
